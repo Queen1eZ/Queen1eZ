@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Queenie</h1>
 <h3 align="center">A passionate data analysis enthusiast</h3>
 
- I am a graduate student in **Electrical & Computer Engineering** at [The University of Washington](https://www.washington.edu/) and I graduated in **Data Science and Big Data Technology with Contemporary Entrepreneurialism** from [The University of Liverpool] with a bachelor's degree.
+ I am a graduate student in **Electrical & Computer Engineering** at [The University of Washington](https://www.washington.edu/) and I graduated in **Data Science and Big Data Technology with Contemporary Entrepreneurialism** from [The University of Liverpool](https://www.liverpool.ac.uk/) with a bachelor's degree.
 
 - 🔭 I’m currently studying at **University of Washington**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for **2025 Summer/Fall/Winter Internship**
 
-- 👨‍💻 Most Used Language **Python, R**
+- 👨‍💻 Most Used Language **Python, R, SQL**
 
 - 📫 How to reach me **silu0220@uw.edu**
 
