@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for **2025 Summer/Fall/Winter Internship**
 
-- 👨‍💻 Most Used Language [Python, R](Python, R)
+- 👨‍💻 Most Used Language **Python, R**
 
 - 📫 How to reach me **silu0220@uw.edu**
 
