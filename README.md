@@ -3,7 +3,11 @@
 
 - 🔭 I’m currently studying at **University of Washington**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science, Machine Learning**
+
+- 🤝 I’m looking for **2025 Summer/Fall/Winter Internship**
+
+- 👨‍💻 Most Used Language [Python, R](Python, R)
 
 - 📫 How to reach me **silu0220@uw.edu**
 
