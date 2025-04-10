@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
-- 🤝 I’m looking for **2025 Summer/Fall/Winter Internship**
+- 🤝 I’m an upcoming **2025 Summer SDE Intern** in **Amazon**
+
+- 🔭 I’m looking for **2025 Fall/Winter Internship**
 
 - 👨‍💻 Most Used Language **Python, R, SQL**
 
